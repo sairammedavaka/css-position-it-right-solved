@@ -110,6 +110,14 @@
   left: 35px;
 }
 
+.robot-hair-style div:nth-child(4) {
+  left: 335px;
+}
+
+.robot-hair-style div:nth-child(5) {
+  left: 435px;
+}
+
 .robot-hair-two {
   height: 50px;
   width: 50px;
@@ -128,27 +136,32 @@
   left: 235px;
 }
 
-.robot-tooth-three-four {
+.robot-tooth:nth-child(3),
+.robot-tooth:nth-child(4) {
   top: -70px;
   left: 51px;
 }
 
-.robot-tooth-five-six {
+.robot-tooth:nth-child(5),
+.robot-tooth:nth-child(6) {
   top: -140px;
   left: 102px;
 }
 
-.robot-tooth-seven-eight {
+.robot-tooth:nth-child(7),
+.robot-tooth:nth-child(8) {
   top: -210px;
   left: 153px;
 }
 
-.robot-tooth-nine-tenth {
+.robot-tooth:nth-child(9),
+.robot-tooth:nth-child(10) {
   top: -280px;
   left: 204px;
 }
 
-.robot-tooth-eleven-twelve {
+.robot-tooth:nth-child(11),
+.robot-tooth:nth-child(12) {
   top: -350px;
   left: 255px;
 }
